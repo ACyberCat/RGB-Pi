@@ -9,7 +9,7 @@ Ultilizing the PWM signal and python to program ARGB/NeoPixels LED's on Raspberr
 
 
 ## Demo
-https://imgur.com/a/LwrkGD7
+[![Demo](https://imgur.com/a/LwrkGD7)](https://github.com/ACyberCat/RGB-Pi)
 
 ## Wiring
 This project uses the RaspberryPi's GPIO pins to send the data signal to the supported LEDs.
